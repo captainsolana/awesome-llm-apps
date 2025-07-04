@@ -34,7 +34,7 @@ docker pull qdrant/qdrant
 docker run -p 6333:6333 qdrant/qdrant
 ```
 
-4. Run the Streamlit App
+4. Run the Streamlit App.
 ```bash
 streamlit run multi_llm_memory.py
 ```
